@@ -1,1 +1,1 @@
-# Plant-Disease-Detection-Model-
+# Plant Disease Detection Model
